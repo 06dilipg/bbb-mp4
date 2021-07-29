@@ -1,0 +1,2 @@
+BBB_DOMAIN_NAME=bbbconf1.quiklrn.net
+COPY_TO_LOCATION=/mnt/scalelite-recordings/var/bigbluebutton/published/presentation
